@@ -5,6 +5,7 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
+DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,meta.ai
