@@ -10,9 +10,11 @@ DOMAIN,google.com
 DOMAIN,gemini.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
 DOMAIN,signaler-pa.clients6.google.com
+DOMAIN,content-autofill.googleapis.com
 
 # 域名后缀匹配
 # --- Gemini & Google AI 核心依赖 ---
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
