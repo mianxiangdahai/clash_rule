@@ -6,6 +6,7 @@
 
 # 域名精准匹配
 DOMAIN,copilot.microsoft.com
+DOMAIN,google.com
 DOMAIN,gemini.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
 DOMAIN,signaler-pa.clients6.google.com
